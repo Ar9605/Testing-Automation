@@ -1,21 +1,21 @@
 # 🧪 Selenium Testing Automation Project
 
-This project automates website testing using Python, Selenium, and Pytest.  
-It is designed to test common web form elements such as text boxes, checkboxes, and buttons, ensuring that they function correctly and reliably.  
+This project automates website testing using **Python**, **Selenium**, and **Pytest**.  
+It is designed to test common web form elements such as **text boxes, checkboxes, and buttons**, ensuring that they function correctly and reliably.  
 The project demonstrates a structured automation testing workflow that can easily scale to larger web applications.
 
 ---
 
 ## 🚀 Features
 
-- Automated browser interactions using Selenium WebDriver
+- Automated browser interactions using **Selenium WebDriver**
 - Modular design with reusable test fixtures (`conftest.py`)
 - Automated testing of:
   - Textbox inputs and validation
   - Form submissions
   - Button clicks and element presence
-- Integration with Pytest for easy test execution and reporting
-- Compatible with Chrome, Edge, and Firefox browsers
+- Integration with **Pytest** for easy test execution and reporting
+- Compatible with **Chrome**, **Edge**, and **Firefox** browsers
 
 ---
 
@@ -34,7 +34,7 @@ selenium_automation_project/
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the repository
-
+```bash
 git clone https://github.com/Ar9605/Testing-Automation.git
 cd Testing-Automation
 
@@ -44,6 +44,7 @@ Windows:
 selenium_env\Scripts\activate
 Mac/Linux:
 source selenium_env/bin/activate
+
 3. Install dependencies
 pip install -r requirements.txt
 
@@ -68,11 +69,10 @@ Report Generation: Pytest-HTML
 Open a target webpage automatically
 Fill out a form with valid/invalid data
 Validate textbox input fields
-
 Click buttons and verify expected output
-
 Capture and log results
 
 🧑‍💻 Author
 Abhinav Raj
 Python Developer | Automation & Data Enthusiast
+📧 abhinav.raj6@tcs.com
