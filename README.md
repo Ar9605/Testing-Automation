@@ -1,7 +1,7 @@
 # 🧪 Selenium Testing Automation Project
 
 This project automates website testing using Python, Selenium, and Pytest.  
-It is designed to test common web form elements such as text boxes, checkboxes, and buttons**, ensuring that they function correctly and reliably.  
+It is designed to test common web form elements such as text boxes, checkboxes, and buttons, ensuring that they function correctly and reliably.  
 The project demonstrates a structured automation testing workflow that can easily scale to larger web applications.
 
 ---
